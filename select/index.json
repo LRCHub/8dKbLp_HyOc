@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ODD FUTURE",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T07:02:42.196853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ODD FUTURE",
+      "artist": "BiS",
+      "has_synced": false,
+      "path": "select/01_ODD_FUTURE_BiS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ODD FUTURE",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_ODD_FUTURE_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fitzpleasure (The Internet of Odd Future Remix)",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/03_Fitzpleasure_(The_Internet_of_Odd_Future_Remix)_alt-J.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fitzpleasure (The Internet of Odd Future remix)",
+      "artist": "alt‐J",
+      "has_synced": false,
+      "path": "select/04_Fitzpleasure_(The_Internet_of_Odd_Future_remix)_alt‐J.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ODD FUTURE (From \"My Hero Academia\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/05_ODD_FUTURE_(From__My_Hero_Academia_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Odd Future",
+      "artist": "dj-Jo feat. Romix",
+      "has_synced": true,
+      "path": "select/06_Odd_Future_dj-Jo_feat._Romix.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Odd Future",
+      "artist": "dj-Jo",
+      "has_synced": true,
+      "path": "select/07_Odd_Future_dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Odd Future (TV Size)",
+      "artist": "dj-Jo feat. Romix",
+      "has_synced": false,
+      "path": "select/08_Odd_Future_(TV_Size)_dj-Jo_feat._Romix.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Odd Future (TV Size)",
+      "artist": "dj-Jo",
+      "has_synced": false,
+      "path": "select/09_Odd_Future_(TV_Size)_dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ODD FUTURE short ver.",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/10_ODD_FUTURE_short_ver._UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Odd Future",
+      "artist": "FamilyJules feat. Caleb Hyles",
+      "has_synced": false,
+      "path": "select/11_Odd_Future_FamilyJules_feat._Caleb_Hyles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Odd Future",
+      "artist": "Caleb Hyles",
+      "has_synced": false,
+      "path": "select/12_Odd_Future_Caleb_Hyles.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Odd Future (From \"My Hero Academia\")",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/13_Odd_Future_(From__My_Hero_Academia_)_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Odd Future",
+      "artist": "Jonathan Young",
+      "has_synced": true,
+      "path": "select/14_Odd_Future_Jonathan_Young.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ODD FUTURE",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_ODD_FUTURE_UVERworld.txt"
+    }
+  ]
+}
